@@ -13,5 +13,5 @@ fun main(args:Array<String>){
     }else{
         print("Anda Harus Remedial!")
     }
-    
+
 }
