@@ -7,4 +7,5 @@ fun main(args:Array<String>){
     }else{
         print("Selamat Anda Lulus!")
     }
+    
 }
